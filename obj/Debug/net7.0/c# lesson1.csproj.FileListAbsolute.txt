@@ -1,0 +1,15 @@
+/Users/olgabelova/Desktop/c# lesson1/bin/Debug/net7.0/c# lesson1
+/Users/olgabelova/Desktop/c# lesson1/bin/Debug/net7.0/c# lesson1.deps.json
+/Users/olgabelova/Desktop/c# lesson1/bin/Debug/net7.0/c# lesson1.runtimeconfig.json
+/Users/olgabelova/Desktop/c# lesson1/bin/Debug/net7.0/c# lesson1.dll
+/Users/olgabelova/Desktop/c# lesson1/bin/Debug/net7.0/c# lesson1.pdb
+/Users/olgabelova/Desktop/c# lesson1/obj/Debug/net7.0/c# lesson1.csproj.AssemblyReference.cache
+/Users/olgabelova/Desktop/c# lesson1/obj/Debug/net7.0/c# lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabelova/Desktop/c# lesson1/obj/Debug/net7.0/c# lesson1.AssemblyInfoInputs.cache
+/Users/olgabelova/Desktop/c# lesson1/obj/Debug/net7.0/c# lesson1.AssemblyInfo.cs
+/Users/olgabelova/Desktop/c# lesson1/obj/Debug/net7.0/c# lesson1.csproj.CoreCompileInputs.cache
+/Users/olgabelova/Desktop/c# lesson1/obj/Debug/net7.0/c# lesson1.dll
+/Users/olgabelova/Desktop/c# lesson1/obj/Debug/net7.0/refint/c# lesson1.dll
+/Users/olgabelova/Desktop/c# lesson1/obj/Debug/net7.0/c# lesson1.pdb
+/Users/olgabelova/Desktop/c# lesson1/obj/Debug/net7.0/c# lesson1.genruntimeconfig.cache
+/Users/olgabelova/Desktop/c# lesson1/obj/Debug/net7.0/ref/c# lesson1.dll
